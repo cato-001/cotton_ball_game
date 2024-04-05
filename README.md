@@ -2,7 +2,7 @@
 
 This project can be used to simulate the cotton ball game from this video:
 
-![YouTube Video](https://www.youtube.com/watch?v=LUCvSsx6-EU)
+<iframe width="1017" height="572" src="https://www.youtube.com/embed/LUCvSsx6-EU" title="A Finite Game of Infinite Rounds #SoME2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## The Rules
 
