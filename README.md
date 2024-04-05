@@ -2,7 +2,7 @@
 
 This project can be used to simulate the cotton ball game from this video:
 
-![](https://www.youtube.com/embed/LUCvSsx6-EU)
+[![cotton ball youtube video](https://img.youtube.com/vi/LUCvSsx6-EU/0.jpg)](https://www.youtube.com/watch?v=LUCvSsx6-EU)
 
 ## The Rules
 
