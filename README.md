@@ -1,7 +1,8 @@
 # Cotton Ball Game
 
 This project can be used to simulate the cotton ball game from this video:
-https://www.youtube.com/watch?v=LUCvSsx6-EU
+
+![](https://www.youtube.com/watch?v=LUCvSsx6-EU)
 
 ## The Rules
 
@@ -21,6 +22,6 @@ This program plays the game an averages the total rounds.
 
     cargo run --release
 
-    # run custom number of games
+    // run custom number of games
     cargo run --release -- --count 1000000
 
