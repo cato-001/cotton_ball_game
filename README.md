@@ -24,4 +24,3 @@ This program plays the game an averages the total rounds.
 
     // run custom number of games\
     cargo run --release -- --count 1000000
-
